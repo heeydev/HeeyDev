@@ -1,6 +1,9 @@
 <div align="center"> 
-
 Olá! Me chamo Hiago Crespo e bem vindo ao meu GitHub.
+<div align="center"> 
+Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
+<div align="center"> 
+No momento estou estudando desenvolvimento com C#, .NET e SQL Server.
 
 </div>
 
