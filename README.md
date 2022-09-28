@@ -5,9 +5,9 @@ Estou me formando em Engenharia Elétrica com ênfase em computação e recentem
 <div align="center"> 
 No momento estou estudando desenvolvimento com C#, .NET e SQL Server.
 
-</div>
-
+##
 <div align="center">
+
   <a href="https://github.com/heeydev">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
