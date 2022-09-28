@@ -9,6 +9,7 @@ Olá! Me chamo Hiago Crespo e bem vindo ao meu GitHub.
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
+<div align="center"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" title=".NET" height="30" width="60"/>
