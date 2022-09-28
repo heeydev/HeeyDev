@@ -1,4 +1,9 @@
-## Olá! Eu sou Hiago Crespo, bem vindo ao meu GitHub.
+<div align="center"> 
+
+Olá! Eu sou Hiago Crespo, bem vindo ao meu GitHub.
+
+</div>
+
 <div align="center">
   <a href="https://github.com/heeydev">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
