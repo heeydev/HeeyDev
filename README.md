@@ -1,6 +1,6 @@
 <div align="center"> 
 
-Olá! Eu sou Hiago Crespo, bem vindo ao meu GitHub.
+Olá! Me chamo Hiago Crespo e bem vindo ao meu GitHub.
 
 </div>
 
