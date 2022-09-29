@@ -24,7 +24,7 @@ No momento estou estudando Desenvolvimento com C#, .NET e SQL Server.
  
 <div> 
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="heeydev"/></span>
-  <a href="mailto:maciellbranco@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-0000ff?style=lat-square&logo=gmail&logoColor=FF0000" alt="GMAIL"></a>
+  <a href="mailto:maciellbranco20@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-0000ff?style=lat-square&logo=gmail&logoColor=FF0000" alt="GMAIL"></a>
   <a href="https://www.linkedin.com/in/hiago-crespo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://www.instagram.com/hiagocrespo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
  
