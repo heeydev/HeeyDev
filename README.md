@@ -12,7 +12,7 @@ No momento estou estudando Desenvolvimento com C#, .NET e SQL Server.
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" alt="PHP" title="PHP" height="35" width="45"/>
+  <img align="center" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" alt="PHP" title="PHP" height="50" width="60"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" height="30" width="40"/>
