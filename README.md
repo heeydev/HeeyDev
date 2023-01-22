@@ -2,7 +2,7 @@
 Olá! Me chamo Hiago Crespo, bem vindo ao meu GitHub 😉
 
 Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
-No momento estou estudando Desenvolvimento com C#, .NET e SQL Server.
+No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP e Zend e tenho noções básicas de C#, .NET e SQL Server.
 
 ##
 <div align="center">
