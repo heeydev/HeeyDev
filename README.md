@@ -56,11 +56,11 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
 <div align="center">
 <a> <img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="Visitantes"/>
 </a>
-<a href="https://www.linkedin.com/in/hiago-crespo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a target="_blank" href="https://www.linkedin.com/in/hiago-crespo" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:maciellbranco20@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail" />
 </a>
-<a href="https://www.instagram.com/hiagocrespo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram">
+<a target="_blank" href="https://www.instagram.com/hiagocrespo/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
  
 ![Snake animation](https://github.com/heeydev/heeydev/blob/output/github-contribution-grid-snake.svg)
