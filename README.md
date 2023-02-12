@@ -1,8 +1,10 @@
 <div>
-<div align="center">
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-<br> Me chamo Hiago Crespo 
-<br> Seja Bem vindo(a) ao meu GitHub! 😉 </h1>
+  <div align="center">
+  <h1> 
+    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br> 
+    Me chamo Hiago Crespo <br> 
+    Seja Bem vindo(a) ao meu GitHub! 😉 
+  </h1>
 </div>
 
 Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
@@ -15,20 +17,16 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
   - 💻 Engenharia de Software
 
 - 📚 Cursos e Bootcamps
-  -  <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/> [DIO](https://www.dio.me/)
+  - <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/> [DIO](https://www.dio.me/)
   - <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/> [Alura](https://www.alura.com.br/)
   
 ##
+
 <div align="center">
   <a href="https://github.com/heeydev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
- 
-          
-</div>
-  
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 <p>
@@ -56,11 +54,15 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
   ## 📣 Contact
  
 <div align="center">
-  <a> <img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="Visitantes"/></a>
-  <a href="https://www.linkedin.com/in/hiago-crespo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:maciellbranco20@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/hiagocrespo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a> <img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="Visitantes"/>
+</a>
+<a href="https://www.linkedin.com/in/hiago-crespo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:maciellbranco20@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/hiagocrespo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
  
-  ![Snake animation](https://github.com/heeydev/heeydev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/heeydev/heeydev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
