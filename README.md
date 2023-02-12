@@ -1,29 +1,61 @@
+<div>
+<div align="center">
+<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Me chamo Hiago Crespo 
+<br> Seja Bem vindo(a) ao meu GitHub 😉 </h1>
 </div>
-Olá! Me chamo Hiago Crespo, bem vindo ao meu GitHub 😉
 
 Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
 No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP utilizando Zend e tenho noções básicas de C#, .NET e SQL Server.
 
+- 💼 Atualmente trabalhando na [Arbo Imóveis](https://www.arboimoveis.com.br/) & [Superlógica Tecnologias](https://superlogica.com/)
+- 🎓 Graduação:
+
+  - ⚡ Engenharia Elétrica
+  - 💻 Engenharia de Software
+
+- 📚 Cursos e Bootcamps
+  -  <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/> [DIO](https://www.dio.me/)
+  - <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/> [Alura](https://www.alura.com.br/)
+  
 ##
 <div align="center">
-
   <a href="https://github.com/heeydev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="PHP" width="5%" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" height="30" width="40"/>
  
           
 </div>
   
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+<p>
+-
+<img align="center" alt="PHP" width="6%" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>
+<img align="center" alt="Zend" width="6%" src="https://img.shields.io/badge/-Zend-05122A?style=flat&logo=zendframework"/>
+<img align="center" alt="Laravel" width="8%" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel"/>
+<img align="center" alt="MySQL" width="7%" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/><br>
+-
+<img align="center" alt="JavaScript" width="9%" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+<img align="center" alt="HTML" width="6%" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+<img align="center" alt="CSS" width="5%" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/><br>
+-
+<img align="center" alt="C#" width="7%" src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4="/>
+<img align="center" alt=".NET" width="3%" src="https://img.shields.io/badge/-05122A?style=flat&logo=dotnet"/>
+<img align="center" alt="Entity Framework" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/> Entity
+<img align="center" alt="SQLServer" width="10%" src="https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver"/><br>
+-
+<img align="center" alt="Git" width="5%" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+<img align="center" alt="GitHub" width="7.5%" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+<img align="center" alt="Visual Studio Code" width="16%" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/><br>
+
+<br><br>
+  
   ##
  
-<div align="center"> 
-  <span><img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="heeydev"/></span>
+<div align="center">
+  <a> <img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="Visitantes"/></a>
   <a href="https://www.linkedin.com/in/hiago-crespo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maciellbranco20@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail" /></a>
   <a href="https://www.instagram.com/hiagocrespo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
