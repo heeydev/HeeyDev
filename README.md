@@ -28,7 +28,7 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
           
 </div>
   
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 <p>
@@ -51,7 +51,7 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
 <img align="center" alt="GitHub" width="7.5%" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
 <img align="center" alt="Visual Studio Code" width="16%" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/><br>
 
-<br><br>
+<br>
   
   ## 📣 Contact
  
