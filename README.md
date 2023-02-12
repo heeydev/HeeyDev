@@ -1,7 +1,8 @@
 <div>
 <div align="center">
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Me chamo Hiago Crespo 
-<br> Seja Bem vindo(a) ao meu GitHub 😉 </h1>
+<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+<br> Me chamo Hiago Crespo 
+<br> Seja Bem vindo(a) ao meu GitHub! 😉 </h1>
 </div>
 
 Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
@@ -52,7 +53,7 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
 
 <br><br>
   
-  ##
+  ## 📣 Contact
  
 <div align="center">
   <a> <img src="https://visitor-badge.laobi.icu/badge?page_id=heeydev" alt="Visitantes"/></a>
