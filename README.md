@@ -1,8 +1,9 @@
 <div>
   <div align="center">
   <h1> 
-    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br> 
-    Me chamo Hiago Crespo <br> 
+    Olá! <img height="50em" src="https://user-images.githubusercontent.com/112535799/219473432-1c19179c-e85d-45f6-97fa-d70f42caf933.gif" height="30px"><br> 
+    Me chamo Hiago Crespo <br>
+
     Seja Bem vindo(a) ao meu GitHub! 😉 
   </h1>
 </div>
