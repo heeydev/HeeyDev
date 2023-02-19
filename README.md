@@ -8,32 +8,58 @@
   </h1>
 </div>
 
-Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
-No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP utilizando Zend e tenho noções básicas de C#, .NET e SQL Server.
+  Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
+  No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP utilizando Zend e tenho noções básicas de C#, .NET e SQL Server.
+
 <ul>
   <p>
-    <li> 💼 Atualmente trabalhando na 
-      <a href="https://www.arboimoveis.com.br/"> Arbo Imóveis </a> 
-        <strong> & </strong> 
-      <a href="https://superlogica.com/"> Superlógica Tecnologias </a>
-    </li>
+    <h4>
+      <li> 💼 Atualmente trabalhando na 
+        <a href="https://www.arboimoveis.com.br/"> Arbo Imóveis </a> 
+          <strong> 
+            & 
+          </strong> 
+        <a href="https://superlogica.com/"> Superlógica Tecnologias </a>
+      </li>
+    </h4>
   </p>
   <p>
-    <li> 🎓 Graduação:</li>
+    <li>
+      <h4>
+        <strong> 
+          🎓 Graduação: 
+        </strong>
+      </h4>
+    </li>
   </p>
-
-   - ⚡ Engenharia Elétrica
-   - 💻 Engenharia de Software
-  
+  <ul>
+    <h5>
+      <li> ⚡ Engenharia Elétrica </li>
+      <li> 💻 Engenharia de Software </li>
+    </h5>
+  </ul>
 </ul>
 <ul>
   <p>
-    <li> 📚 Cursos e Bootcamps </li>
+    <li>
+      <h4>
+        <strong>
+          📚 Cursos e Bootcamps 
+        </strong>
+      </h3>
+    </li>
   </p>
-  
-  - <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/> [DIO](https://www.dio.me/)
-  - <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/> [Alura](https://www.alura.com.br/)
-  
+  <ul>
+    <li>
+      <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/>
+      <a href="https://www.dio.me/"> DIO </a> 
+    </li>
+    <li>  
+      <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/>
+      <a href="https://www.alura.com.br/"> Alura </a> 
+    </li>
+  </ul>
+
 ##
 
 <div align="center">
