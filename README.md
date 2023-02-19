@@ -10,14 +10,27 @@
 
 Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
 No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP utilizando Zend e tenho noções básicas de C#, .NET e SQL Server.
+<ul>
+  <p>
+    <li> 💼 Atualmente trabalhando na 
+      <a href="https://www.arboimoveis.com.br/"> Arbo Imóveis </a> 
+        <strong> & </strong> 
+      <a href="https://superlogica.com/"> Superlógica Tecnologias </a>
+    </li>
+  </p>
+  <p>
+    <li> 🎓 Graduação:</li>
+  </p>
 
-- 💼 Atualmente trabalhando na [Arbo Imóveis](https://www.arboimoveis.com.br/) & [Superlógica Tecnologias](https://superlogica.com/)
-- 🎓 Graduação:
-
-  - ⚡ Engenharia Elétrica
-  - 💻 Engenharia de Software
-
-- 📚 Cursos e Bootcamps
+   - ⚡ Engenharia Elétrica
+   - 💻 Engenharia de Software
+  
+</ul>
+<ul>
+  <p>
+    <li> 📚 Cursos e Bootcamps </li>
+  </p>
+  
   - <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/> [DIO](https://www.dio.me/)
   - <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/> [Alura](https://www.alura.com.br/)
   
@@ -26,7 +39,7 @@ No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP
 <div align="center">
   <a href="https://github.com/heeydev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heeydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heeydev&layout=compact&langs_count=15&theme=tokyonight"/>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
