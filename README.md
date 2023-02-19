@@ -7,10 +7,8 @@
     Seja Bem vindo(a) ao meu GitHub! 😉 
   </h1>
 </div>
-
   Estou me formando em Engenharia Elétrica com ênfase em computação e recentemente ingressei em Engenharia de Software.
   No momento estou estudando e atuando como Estagiário de Desenvolvimento com PHP utilizando Zend e tenho noções básicas de C#, .NET e SQL Server.
-
 <ul>
   <p>
     <h4>
