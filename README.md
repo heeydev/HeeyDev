@@ -50,11 +50,11 @@
   <ul>
     <li>
       <img src="https://user-images.githubusercontent.com/112535799/218322508-0d53ec22-653e-474e-bb1d-f51b934366c4.png" width="3%"/>
-      <a href="https://www.dio.me/"> DIO </a> 
+      <a href="https://www.dio.me/users/maciellbranco"> DIO </a> 
     </li>
     <li>  
       <img src="https://user-images.githubusercontent.com/112535799/218322974-c523f252-d2bb-4ed4-8939-6c2b8ffccd5a.png" width="3%"/>
-      <a href="https://www.alura.com.br/"> Alura </a> 
+      <a href="https://cursos.alura.com.br/user/hiago-branco0"> Alura </a> 
     </li>
   </ul>
 
